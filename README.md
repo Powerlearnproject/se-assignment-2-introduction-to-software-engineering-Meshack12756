@@ -1,6 +1,8 @@
+[![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-22041afd0340ce965d47ae6ef1cefeee28c7c493a6346c4f15d667ab976d596c.svg)](https://classroom.github.com/a/-ucQIGTc)
+[![Open in Visual Studio Code](https://classroom.github.com/assets/open-in-vscode-2e0aaae1b6195c2367325f4f02e2d04e9abb55f0b24a779b69b11b9e10269abc.svg)](https://classroom.github.com/online_ide?assignment_repo_id=15381701&assignment_repo_type=AssignmentRepo)
 # SE-Assignment-2
 Assignment: Introduction to Software Engineering
-Instructions:
+Instructions: 
 Answer the following questions based on your understanding of software engineering concepts. Provide detailed explanations and examples where appropriate.
 
 Questions:
@@ -39,3 +41,15 @@ Your answers should be well-structured, concise, and to the point.
 Provide real-world examples or case studies wherever possible.
 Cite any references or sources you use in your answers.
 Submit your completed assignment by [due date].
+
+Answers:
+1. software engineering is the process of building, testing and maintaining software applications.
+2. software engineering differs from traditoinal programming in that programming focuses more on writing code to solve a specific problem. most of the time is a functional piece of code...while software engineering is based on developing complex software applications to achieve products of necessity.
+3. The software development cycle is a process used to build, test and maintain softwares and is mostly used to obtain high quality softwares. the steps are:
+   planning: one must identify the type of project he or she is working on so as to gather details and create a project plan
+   design: one should create the software architecture and gather blueprints so as to define system components and their interactions
+   development: this stage encompanses writing of the actual code based on the specifications of the design
+   testing: this stage deals with identifying and fixing bugs in codes
+   deployment: one the software is ready for use, release the software in the market for end-users
+   maintenance: at this point, one can improve performance and scalability of the software and fix bug-related issues from the users.
+
